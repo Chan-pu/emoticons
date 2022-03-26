@@ -4,15 +4,15 @@ emoticons.translation.credit=McHorse
 # GUI and other stuff
 emoticons.keys.category=Emoticonos y emociones
 emoticons.keys.random=Emoticono aleatorio
-emoticons.keys.emote1=Emoticono 1
-emoticons.keys.emote2=Emoticono 2
-emoticons.keys.emote3=Emoticono 3
-emoticons.keys.emote4=Emoticono 4
-emoticons.keys.emote5=Emoticono 5
-emoticons.keys.emote6=Emoticono 6
-emoticons.keys.emotes=Configurar emoticonos
-emoticons.keys.stop_emote=Parar emoticono
-emoticons.keys.reload_emotes=Reload emotes
+emoticons.keys.emote1=Emoticon 1
+emoticons.keys.emote2=Emoticon 2
+emoticons.keys.emote3=Emoticon 3
+emoticons.keys.emote4=Emoticon 4
+emoticons.keys.emote5=Emoticon 5
+emoticons.keys.emote6=Emoticon 6
+emoticons.keys.emotes=Configurar emoticons
+emoticons.keys.stop_emote=Parar emoticon
+emoticons.keys.reload_emotes=Recargar emotes
 
 morph.section.emoticons=Emoticons
 morph.category.emoticons=Models
